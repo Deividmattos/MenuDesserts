@@ -1,4 +1,26 @@
 .row_desserts {
                           display: flex;
+                          position: relative;
 }
 
+button {
+                          padding: 5px;
+                          border-radius: 18px;
+                          width: 160px;
+                          position: absolute;
+                          left: 50px;
+                          bottom:73px;
+                          border: 1px solid var(--Rose100);
+                          background-color: white;
+                          display: flex;
+                          align-items: center;
+                          justify-content: center;
+
+}
+
+button span {
+                margin-left: 8px;
+}
+.description_text{
+                          margin-top: 23px;
+}

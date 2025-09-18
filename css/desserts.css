@@ -1,5 +1,7 @@
 .desserts{
                           max-width: 780px;
                           width: 100%;
-                          background-color: aquamarine;
+                          gap: 8px;
+
+
 }
